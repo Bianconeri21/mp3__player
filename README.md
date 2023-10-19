@@ -1,4 +1,4 @@
-# player
+# Player
 
 ## Project setup
 ```
